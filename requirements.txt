@@ -1,0 +1,10 @@
+unstructured
+pypdf
+pinecone-client
+langchain
+langchain-google-genai
+transformers
+pandas
+numpy
+python-dotenv
+sentence-transformers
